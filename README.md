@@ -12,7 +12,7 @@ Token authentication is used
 
 Project prepared for upload to heroka
 
-All is you need to do is add the keys for google drive ('credentials/drive') and google calendar ('credentials/calendar') by following (https://developers.google.com) and then upload the repository to herok following the instructions https://devcenter.heroku.com/categories/python -support
+All is you need to do is add the keys for google drive ('credentials/drive/credentials.json') and google calendar ('credentials/calendar/credentials.json') by following (https://developers.google.com) and then upload the repository to herok following the instructions https://devcenter.heroku.com/categories/python -support
 
 for convenience, use the user interface (https://github.com/SimpsonAlex/salon-front-vuejs)
 
