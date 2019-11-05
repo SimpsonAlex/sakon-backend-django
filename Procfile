@@ -1,0 +1,1 @@
+web: gunicorn skuka.wsgi --log-file -
